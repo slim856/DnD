@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+body,
+html {
+    font-family: 'Montserrat';
+}
+
+nav,
+footer {
+    background: #2B386F;
+    width: 100%;
+}
+
+.search {
+    width: 600px;
+    height: 50px;
+    border: 0;
+    padding-left: 25px;
+    border-radius: 7px 0px 0px 7px;
+}
+
+.searchBtn {
+    background: rgba(255, 171, 0, 0.7);
+    border-radius: 0px 7px 7px 0px;
+    padding: 15.5px 17px;
+}
+
+.fa-search {
+    color: #ffffff;
+}
